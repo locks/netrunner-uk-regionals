@@ -1,11 +1,11 @@
 {
-  "title": "Program Restoran",
+  "title": "Netrunner UK Regionals Championship",
   "url": "https://programrestoran.axcora.com",
   "language": "id",
-  "description": "Software restoran aplikasi restoran untuk mesin kasir restoran cafe rumah makan desktop offline dan online integrasi website app terbaru.",
+  "description": "A series of six community-run tournaments to take place across the UK.",
   "cover": "/img/programrestoran.svg",
   "feed": {
-    "subtitle": "Software restoran aplikasi restoran untuk mesin kasir restoran cafe rumah makan desktop offline dan online integrasi website app terbaru.",
+    "subtitle": "A series of six community-run tournaments to take place across the UK.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://programrestoran.axcora.com/"
